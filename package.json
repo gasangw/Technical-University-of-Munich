@@ -1,0 +1,26 @@
+{
+  "name": "technical-university-of-munich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasangw/Technical-University-of-Munich.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasangw/Technical-University-of-Munich/issues"
+  },
+  "homepage": "https://github.com/gasangw/Technical-University-of-Munich#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.4"
+  }
+}
